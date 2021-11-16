@@ -1,0 +1,23 @@
+h2 {
+	margin-top:50px;
+}
+
+li {
+	margin-top:5px;
+}
+
+ul {
+	list-style-type:none;
+}
+
+#rapport {
+	text-align:left;
+}
+
+#rapport ul {
+	list-style-type:circle;
+}
+
+#rapport ul li {
+	margin-left:40px;
+}
